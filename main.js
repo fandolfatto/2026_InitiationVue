@@ -2,7 +2,8 @@ const App = Vue.createApp({
     data() {
         return {
             product : 'Voitures',
-            description : 'Modèle 849 Testarossa de chez Ferrari'
+            description : 'Modèle 849 Testarossa de chez Ferrari',
+            image : 'assets/images/849_testarossa_red.jpg',
         }
     }
 })
